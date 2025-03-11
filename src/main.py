@@ -1,2 +1,2 @@
  
-print("Projeto Python iniciado com sucesso! 🚀")
+print("Testando Repositorio! 🚀")
